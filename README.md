@@ -16,7 +16,7 @@ These both are different approaches and for an optimal approach on the given pro
 
 ## Usage & Installation
 Both modul works are provided in form of notebooks.
-For further description refer to the readme.pdf in the repository directories of the modul:
+For further description refer to the readme.pdf in the repository directories of the moduls:
 - Modul2: navigate path to Modul2/Electricity_Price_Forecasting_20201019/README.pdf
 - Modul3: navigate path to Modul3/forecasting_electricity_prices_PhWenk/README.pdf
 
